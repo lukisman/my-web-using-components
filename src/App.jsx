@@ -1,4 +1,4 @@
-import HeaderComponent from "./components/headerComponent";
+import HeaderComponent from "./components/HeaderComponent";
 import BodyComponent from "./components/BodyComponent";
 import FooterComponent from "./components/FooterComponent";
 import "./App.css";
