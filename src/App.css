@@ -1,0 +1,26 @@
+div {
+  font-family: monospace;
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 0 20px;
+  background-color: black;
+  color: white;
+}
+
+hr {
+  border: 0;
+  border-top: 1px dashed white;
+  margin: 20px 0;
+}
+
+.galeri {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+
+.galeri img {
+  width: 200px;
+  height: 150px;
+  object-fit: cover;
+}

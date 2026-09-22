@@ -1,0 +1,16 @@
+import HeaderComponent from "./components/headerComponent";
+import BodyComponent from "./components/BodyComponent";
+import FooterComponent from "./components/FooterComponent";
+import "./App.css";
+
+function App() {
+  return (
+    <div>
+      <HeaderComponent />
+      <BodyComponent />
+      <FooterComponent />
+    </div>
+  );
+}
+
+export default App;
